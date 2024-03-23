@@ -1,0 +1,59 @@
+*{
+    padding:0;
+    margin: 0;
+}
+ .Heading{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.Heading a{
+    color: grey;
+}
+.Heading a:hover{
+    color: white;
+}
+.container{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+.container-one{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    border:3px solid black;
+}
+.container-one img{
+    width: 200px;
+    height: 200px;
+}
+.container-one__button{
+    background-color: black;
+    color: white;
+    margin-top: 28px;
+    padding: 10px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+
+.footer-form__title{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.Send-button{
+    background-color: yellow;
+    color: black;
+    width: 500px;
+    text-decoration: none;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 3px;
+}
